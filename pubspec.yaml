@@ -1,6 +1,7 @@
 name: persistent_device_calendar
 description: Persistence wrapper for device_calendar
 version: 0.0.1
+repository: https://github.com/helightdev/persistent_device_calendar
 
 environment:
   sdk: '>=2.18.1 <3.0.0'
